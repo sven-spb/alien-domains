@@ -64,6 +64,6 @@ You should provide list with domain names you need to check. Either with `domain
 Feel free to fork the repository and submit pull requests. All contributions are welcome!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE-MIT](LICENSE-MIT) or <https://opensource.org/licenses/MIT> file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) or <https://opensource.org/licenses/MIT> file for details.
 
 Enjoy! 🎉
